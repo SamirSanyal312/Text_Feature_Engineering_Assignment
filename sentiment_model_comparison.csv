@@ -1,0 +1,5 @@
+Model,Accuracy
+Logistic Regression + BoW,0.9230769230769231
+Logistic Regression + TF-IDF,0.9230769230769231
+Naive Bayes + BoW,0.9615384615384616
+Naive Bayes + TF-IDF,0.9230769230769231

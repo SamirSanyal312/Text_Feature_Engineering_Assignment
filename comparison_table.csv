@@ -1,0 +1,4 @@
+Technique,Representation,Uses Frequency,Captures Importance,Sparse Matrix,Best For,Main Limitation
+One Hot Encoding,Binary values (0 or 1) for word presence,No,No,Yes,Simple presence/absence representation,Ignores frequency and importance
+Bag of Words,Word frequency counts,Yes,Limited,Yes,Basic text classification and word counting,Common words can dominate
+TF-IDF,Weighted importance of words,Yes,Yes,Yes,"Text mining, search, and feature importance",Still does not capture semantics or context
